@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Developing Things 
+Implement.md
+.env
+
+# package
+package-lock.json
+
+# vim
+*~
+
+# my build
+dist/
+
