@@ -97,7 +97,7 @@ npm run test
 ]
 ```
 
-## Projet Structure
+## Project Structure
 ```
 /api
   .env: port, jwt_secret, database config
